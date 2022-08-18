@@ -1,0 +1,72 @@
+.auth__section{
+    padding:30px;
+}
+
+.auth__section img{
+    height: 40px;
+}
+
+.auth__box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    height: 80vh;
+}
+
+.auth__card{
+    background-color: white;
+    width: 330px;
+    border: none;
+    padding:30px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+
+.auth__card h2{
+    font-weight: bold;
+    font-size: 24px;
+} 
+
+.auth__card .form-group{
+    margin-bottom: 20px;
+} 
+
+.auth__card a{
+    text-decoration: none;
+    text-align: left;
+    display: block;
+    color: #013a6a;
+    font-size: 14px;
+    font-weight: 600;
+} 
+
+.form-group small{
+    color:red
+}
+.form-group label{
+    font-size: 14px;
+    font-weight: 550;
+}
+.form-group input{
+    border-radius: 1px;
+}
+.form-group input:focus{
+    box-shadow: none;
+}
+
+.form-group .submit__btn{
+    background-color: #013a6a;
+    color: white;
+    width:50%;
+    border-radius: 50px;
+}
+
+.btn__div{
+    text-align: left;
+}
+
+.alert{
+    font-size:16px;
+    padding:10px;
+}

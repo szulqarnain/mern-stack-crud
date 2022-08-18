@@ -1,0 +1,25 @@
+.dash__items{
+    display: flex;
+    margin-top:50px;
+}
+
+.single__item{
+    background-color: white;
+    border-radius: 10px;
+    padding:10px 25px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 200px;
+}
+.single__item h2{
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.single__item p{
+    font-size: 18px;
+}
+
+.single__item hr{
+    margin: 0px;
+    border-color: #022e5a;
+}

@@ -1,0 +1,16 @@
+.page__tile__row{
+    padding:5px 0px;
+}
+.page__tile__row .right__side{
+    text-align: right;
+    padding-top:20px;
+}
+.page__tile__row .left__side h4{
+    padding:20px 0px;
+}
+
+.page__tile__row .right__side a{
+    color:#013a6a;
+    text-decoration: none;
+    font-weight: bold;
+}

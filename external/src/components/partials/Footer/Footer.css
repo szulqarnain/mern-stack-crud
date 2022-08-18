@@ -1,0 +1,15 @@
+.footer{
+    background-color: #022e5a;
+    bottom: 0;
+    position: fixed;
+    color: white;
+}
+.footer .right__side{
+    text-align: right;
+}
+
+.footer p{
+    margin: 0px;
+    padding: 5px;
+    font-size: 14px;
+}

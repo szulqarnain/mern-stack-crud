@@ -1,0 +1,22 @@
+.header{
+    padding:20px;
+}
+
+.header .menu {
+    text-align: right;
+}
+
+.header .menu li {
+    display: inline-block;
+    padding:10px;
+}
+
+
+.header .menu li a  {
+    display: inline-block;
+    padding:10px;
+    color:#013a6a;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: .8px;
+}

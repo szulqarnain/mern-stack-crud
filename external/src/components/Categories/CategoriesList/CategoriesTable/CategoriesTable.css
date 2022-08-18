@@ -1,0 +1,30 @@
+.categories__table thead{
+    background-color: #013a6a;
+    color: white;
+}
+.categories__table tbody{
+    color: #013a6a;
+    font-weight:600;
+    text-transform: capitalize;
+}
+
+.action__td{
+  width: 15%;  
+}
+.action__td button{
+    background-color: none;
+    border:none;
+    color:#013a6a;
+    font-weight: bold;
+}
+
+.action__td a{
+    color:#013a6a;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.action__td span{
+    padding-right:10px;
+}
